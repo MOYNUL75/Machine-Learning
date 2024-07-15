@@ -1,5 +1,5 @@
 # Machine-Learning
-This is my new journey for the machine learning domain.
+This is my new journey in the machine learning domain.
 <br>
-Author --Moynul Islam
+Author --Md Moynul Islam
 
